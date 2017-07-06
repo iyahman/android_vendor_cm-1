@@ -126,7 +126,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AudioFX \
     CMSettingsProvider \
-    CMUpdater \
     LineageSetupWizard \
     Eleven \
     ExactCalculator \
@@ -135,6 +134,7 @@ PRODUCT_PACKAGES += \
     LockClock \
     ThemeInterfacer \
     Trebuchet \
+    Updater \
     WallpaperPicker \
     WeatherProvider
 
